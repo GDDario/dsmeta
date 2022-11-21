@@ -9,8 +9,8 @@ function Header() {
                 <img src={logo} alt="DSMeta" />
                 <h1>DSMeta</h1>
                 <p>
-                    Desenvolvido por 
-                    <a href="https://github.com/GDDario">GDDario</a>
+                    Desenvolvido por
+                    <a href="https://github.com/GDDario"> GDDario</a>
                 </p>
             </div>
         </header>
